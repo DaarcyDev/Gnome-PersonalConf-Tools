@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/daarcydev/Documents/Scripts/changeWall.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Change Wallpaper
+Comment=Change wallpaper at startup
+
